@@ -17,4 +17,4 @@ Another paragraph
 
 http://www.google.com
 
-{Google} (http://google.com)
+[Google] (http://google.com)
